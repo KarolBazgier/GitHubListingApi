@@ -10,6 +10,6 @@ GET	/{username} -Pobiera repozytoria użytkownika z GitHub
 - Spring Boot 3+
 
 ## 📌 Uruchomienie: 
-git clone https://github.com/KarolBazgier/GitHubListingApi.git
-cd GitHubListingApi
-mvn clean spring-boot:run
+- git clone https://github.com/KarolBazgier/GitHubListingApi.git
+- cd GitHubListingApi
+- mvn clean spring-boot:run
